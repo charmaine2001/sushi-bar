@@ -5,12 +5,26 @@ html{
 
 body{
     background-color: #a19d9e;
-    background-image: url(images/1.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position:center ;
+    background-image: url(images/try1.jpg); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position:center ; 
 
 }
+body, html {
+    height: 100%;
+}
+.parallax {
+    background-image: url(images/try1.jpg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
 
 
 header{
