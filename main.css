@@ -1,0 +1,199 @@
+body{
+    margin: 0;
+}
+
+.nav1{
+    height: 250px;
+    /* display: flex;
+    justify-content: center; */
+    /* align-items: center;
+    text-align: center; */
+    width: 800px;
+    margin: 10px;
+    padding-left: 300px;
+    padding-right: 200px;
+    
+
+}
+
+img{
+    height: 150px;
+}
+
+
+
+html{
+    background-size: 100%;
+    height: 100%;
+}
+
+
+body{
+    background-color: #a19d9e79;
+    background-image: url(images/1.jpg); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position:center ; 
+    height: 100%;
+
+}
+
+.parallax {
+    background-image: url(images/1.jpg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10px;
+    
+}
+
+
+
+
+header{
+    height: 200px;
+    text-align:center;
+    padding-right: 7.5%;
+    padding-left: 7.5%;
+    
+
+}
+.nav2{
+    background-color: rgba(102, 98, 98, 0.341);
+    /* height: 40px; */
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+main{
+    height: 550px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+    
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.384);
+    height: 100px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+    
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1020px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+h1{
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+p{
+    font-size: 25px;
+    font-family: Helvetica;
+    color: white;
+}
+a{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    /* text-decoration: none; */
+}
+nav a{
+    text-decoration: none;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+footer p {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+
+}
+
+.maps{
+    padding-bottom: 50px;
+    text-align: center;
+}
+.parallax2 {
+    background-image: url(images/1.jpg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    /* font-size: 30px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    
+}
+.cards{
+    display: flex;
+    gap: 2rem;
+    width: 1000px;
+    color: white;
+}
+.card > * {
+    flex-shrink: 1;
+
+}
+
+
+.nav-list
+{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    flex-direction: row; /* Stacks the <li> elements vertically */
+    list-style-type: none; /* Removes bullet points */
+    padding: 0; /* Removes default padding */
+    margin-bottom: 10px; /* Adds space between paragraphs */
+   }
+.h11{
+    font-size: 10px;
+    color: white;
+    font-style: italic;
+}
+.h22{
+    font-size: 18px;
+    color: white;
+    font-style: italic;
+}
+
+.p1{
+    font-size: 10px;
+}
+   
+h3{
+    font-size: 18;
+    color: white;
+}
+h4{
+    font-size: 18px;
+    color: 18px;
+}
+h5{
+    font-size: 18px;
+    color: 18px; 
+}
+<<<<<<< HEAD
+ 
+=======
+
+>>>>>>> cab1dc27d4d0a0696c76d9f6a493a0367ebb4635
