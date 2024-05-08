@@ -12,8 +12,6 @@ body{
     margin: 10px;
     padding-left: 300px;
     padding-right: 200px;
-    
-
 }
 
 img{
@@ -129,6 +127,10 @@ footer p {
 .maps{
     padding-bottom: 50px;
     text-align: center;
+    padding-left: 400px;
+    /* padding-right: 10px; */
+    width: 1000px;
+    align-items: center;
 }
 .parallax2 {
     background-image: url(images/1.jpg);
